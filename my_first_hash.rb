@@ -1,6 +1,6 @@
 def my_hash
   your_hash = {
-   beyonce: "king"
+   beyonce: "king",
    britney: "queen"
   }
   your_hash
